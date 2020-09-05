@@ -50,7 +50,7 @@ In the second part, you will take your main findings from your exploration and c
 
 ---
 
-## Choose your Dataset :point_left:
+## Choose Your Data Set :point_left:
 
 Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) to open a document with links and information about data sets that you can investigate for this project. You must choose one of these datasets to complete the project.
 
