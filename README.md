@@ -41,7 +41,7 @@ In the second part, you will take your main findings from your exploration and c
 
 ## steps of project
 
-- [Choose Your Data Set](### Choose-your-Dataset)
+- [Choose Your Data Set](#Choose-your-Dataset)
 - [data cleaning](#data-cleaning)
 - [question about data](#question-about-data)
 - [Analyze Your Data](#Analyze-Your-Data)
