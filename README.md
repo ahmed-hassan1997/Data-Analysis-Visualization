@@ -43,6 +43,11 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 <img src = "./image/null_value in column.png">
 </p>
 
+
+### explore correlation  between column
+ <p width = "1000px">
+<img src = "./image/corr.png">
+</p>
 ---
 ## end :raising_hand:
 
