@@ -39,7 +39,7 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 ---
 ## Explore Your Data
  ### explore null value in column
- <p>
+ <p width = "1000px">
 <img src = "./image/null_value in column.png">
 </p>
 
