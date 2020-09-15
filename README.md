@@ -46,7 +46,7 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 
 ### explore correlation  between column
  <p width = "1000px">
-<img src = "./image/corr.png">
+<img src="./image/corr.png" alt="drawing" style="width:1000px;"/>
 </p>
 ---
 ## end :raising_hand:
