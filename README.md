@@ -37,5 +37,12 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 
 
 ---
+## Explore Your Data
+ ### explore null value in column
+ <p>
+<img src = "./images/">
+</p>
+
+---
 ## end :raising_hand:
 
