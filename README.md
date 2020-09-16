@@ -59,6 +59,14 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 
 <img src="./image/f4.png" alt="drawing" style="width:1000px;"/>
 
+### What is the relation between CurrentCreditLines && OpenCreditLines ? 
+
+###### solution : this graph show this
+
+* relation between column is linear relation and this is positive correlation
+
+<img src="./image/f5.png" alt="drawing" style="width:1000px;"/>
+
 
 ---
 ## Explore Your Data
