@@ -85,6 +85,15 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 <img src="./image/f7.png" alt="drawing" style="width:1000px;"/>
 
 
+### What is the correlation between the three column [EstimatedLoss , EstimatedReturn , ProsperRating (numeric)] ? 
+
+###### solution : 
+
+* high positive correlation between [EstimatedReturn ,EstimatedLoss ]
+* high negative correlation is between [EstimatedLoss , ProsperRating (numeric)]
+
+<img src="./image/f8.png" alt="drawing" style="width:1000px;"/>
+
 ---
 ## Explore Your Data
  ### explore null value in column
