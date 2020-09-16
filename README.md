@@ -94,6 +94,14 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 
 <img src="./image/f9.png" alt="drawing" style="width:1000px;"/>
 
+
+### What is the correlation between the three column ['MonthlyLoanPayment', 'TotalTrades','LenderYield'] ? 
+
+###### solution : 
+
+###### correlation between the three column is very high 
+<img src="./image/f10.png" alt="drawing" style="width:1000px;"/>
+
 ---
 ## Explore Your Data
  ### explore null value in column
