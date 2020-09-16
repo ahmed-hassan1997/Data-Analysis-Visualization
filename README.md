@@ -32,6 +32,14 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 ###### link Loan Data from Prosper [click](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) 
 
 ---
+
+## Explore Your Data
+ ### explore null value in column
+ <p width = "1000px">
+<img src = "./image/null_value in column.png">
+</p>
+
+---
 ## ask-question-to-analyze-data
 
 ### what is the highest categories in CreditGrade column ?
@@ -103,12 +111,6 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 <img src="./image/f10.png" alt="drawing" style="width:1000px;"/>
 
 ---
-## Explore Your Data
- ### explore null value in column
- <p width = "1000px">
-<img src = "./image/null_value in column.png">
-</p>
-
 
 ### explore correlation  between column
  <p width = "1000px">
