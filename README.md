@@ -40,7 +40,11 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 
 <img src="./image/f1.png" alt="drawing" style="width:1000px;"/>
 
+### what is the highest categories in ProsperRating(alpha) column ?
 
+###### solution : this graph show this
+
+<img src="./image/f2.png" alt="drawing" style="width:1000px;"/>
 
 ---
 ## Explore Your Data
