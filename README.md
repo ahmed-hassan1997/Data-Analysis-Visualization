@@ -80,7 +80,7 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 
 ###### solution : this graph show this
 
-* notice that 75% under 100 duration
+* 50% or greater in (E,HR) is above 0.35 from Borrow rate
 
 <img src="./image/f7.png" alt="drawing" style="width:1000px;"/>
 
