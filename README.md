@@ -34,6 +34,12 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 ---
 ## ask-question-to-analyze-data
 
+### what is the highest categories in CreditGrade column ?
+
+###### solution : this graph show this
+
+<img src="./image/f1.png" alt="drawing" style="width:1000px;"/>
+
 
 
 ---
