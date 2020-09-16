@@ -76,6 +76,14 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 
 <img src="./image/f6.png" alt="drawing" style="width:1000px;"/>
 
+### What is the violinplot between CreditGrade && BorrowerRate ? 
+
+###### solution : this graph show this
+
+* notice that 75% under 100 duration
+
+<img src="./image/f7.png" alt="drawing" style="width:1000px;"/>
+
 
 ---
 ## Explore Your Data
