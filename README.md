@@ -46,6 +46,13 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 
 <img src="./image/f2.png" alt="drawing" style="width:1000px;"/>
 
+### What is the percentage of the people who make the papers of the loan? 
+
+###### solution : this graph show this
+
+<img src="./image/f3.png" alt="drawing" style="width:1000px;"/>
+
+
 ---
 ## Explore Your Data
  ### explore null value in column
