@@ -92,7 +92,7 @@ Click this link [dataset](https://s3.amazonaws.com/udacity-hosted-downloads/ud65
 * high positive correlation between [EstimatedReturn ,EstimatedLoss ]
 * high negative correlation is between [EstimatedLoss , ProsperRating (numeric)]
 
-<img src="./image/f8.png" alt="drawing" style="width:1000px;"/>
+<img src="./image/f9.png" alt="drawing" style="width:1000px;"/>
 
 ---
 ## Explore Your Data
